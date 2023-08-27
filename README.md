@@ -1,10 +1,10 @@
-# WEB102 Prework - Sea Monster Crowdfunding
+# WEB102 Prework -  Sea Monster Crowdfunding
 
 Submitted by: Lana Saadeddin
 
 Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 4 hours spent in total
+Time spent:4 hours spent in total
 
 ## Required Features
 
@@ -15,29 +15,25 @@ The following **required** functionality is completed:
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
-
-
 ## Gif Walkthrough
-
 
 Here's a walkthrough of implemented features:
 
-
+![](https://github.com/lanasaad/web102_prework/blob/c8d78ccfaa25eb65ca69cecfdabe66195b152f08/assets/preworkcodepath.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Understanding how to implement reduce and debugging it was challenging but reading further helped me throughout the process.
 
 ## License
 
-    Copyright [2023][Lana Saadeddin]
+    Copyright [2023] [Lana Saadeddin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
